@@ -1,5 +1,5 @@
-title: design_pattern
-date: 2015-07-25 15:11:42
+﻿title: design_pattern
+date: 2014-03-20 09:44:42
 tags:
 ---
 
@@ -8,7 +8,7 @@ tags:
 ----------
 ## 设计模式的分类：
 
-* ## [建造型设计模式(Creational Patterns)]()
+* ## [建造型设计模式(Creational Patterns)](../建造型设计模式)
     1. 工厂方法模式(Factory Method)
     2. 抽象工厂模式(Abstract Factory)
     3. 单例模式(Singleton)
@@ -16,7 +16,7 @@ tags:
     5. 建造者模式(Builder)
 
 
-* ## [结构型模式(Structural Patterns)]()
+* ## [结构型模式(Structural Patterns)](../结构型模式)
     1. 适配器模式（Adapter Pattern)
     2. 门面模式（Facade Pattern)
     3. 代理模式（Proxy pattern)
@@ -26,7 +26,7 @@ tags:
     7. 桥模式（Bridge Pattern)
 
 
-* ## [行为型模式（Behavioral Patterns)]()
+* ## [行为型模式（Behavioral Patterns)](../行为型模式)
     1. 策略模式（Strategy Pattern)
     2. 迭代器模式（Iterator Pattern)
     3. 模板方法模式（Template Method Pattern)
@@ -39,4 +39,4 @@ tags:
     10. 命令模式（Command Pattern)
     11. 备忘录模式（Memento Pattern)
 
-![design pattern ](../imgs/design_pattern1.jpg)
+![design pattern ](/imgs/design_pattern1.jpg)
