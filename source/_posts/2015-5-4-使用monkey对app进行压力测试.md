@@ -1,6 +1,7 @@
 title: 使用monkey对app进行压力测试
 date: 2015-05-4 10:42:24
 tags:
+- test
 ---
 其实monkey压力测试也不需要怎么去配置，只是有一些参数。
 

@@ -1,6 +1,8 @@
 title: 在Android中使用unittest
 date: 2015-04-30 10:42:24
 tags:
+- android
+- test
 ---
 在Android中使用unittest，不用再运行整个工程，只是测试某一些类是否正确运行。
 

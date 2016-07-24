@@ -1,6 +1,7 @@
 ﻿title: design_pattern
 date: 2014-03-20 09:44:40
 tags:
+- design pattern
 ---
 
 # 设计模式的总结

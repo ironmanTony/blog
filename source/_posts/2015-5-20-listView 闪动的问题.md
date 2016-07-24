@@ -1,6 +1,7 @@
 title: listView 闪动的问题
 date: 2015-05-20 10:42:24
 tags:
+- android
 ---
 
 我仿做一个网易新闻客户端，因为每一行有不同的内容，所以需要使用getItemViewType来区分不同的行的类型

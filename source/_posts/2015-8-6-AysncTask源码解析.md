@@ -1,6 +1,7 @@
 title: AysncTask源码解析
 date: 2015-08-06 16:03:13
 tags:
+- sourcecode analyze
 ---
 
 ## AsyncTask的类图
